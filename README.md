@@ -96,7 +96,7 @@ Enter path to second matrix file: ../../sample_inputs/matrixfile2.txt
 ```
 ✅ The result is saved in result.txt inside code/src/
 
-
+---
 
 ## ⚠️ Input Validation
 
@@ -127,6 +127,22 @@ Choose add, subtract, or multiply, then enter:
 ../../sample_inputs/matrix2.txt
 Output will be written to result.txt.
 ```
+---
+
+##⚠️ Limitations & Constraints
+
+Both matrices need to be the same size for add or subtract to work — otherwise, it throws an error.
+
+Input files must follow the exact format (rows, cols, then values). Any small mistake will likely break it.
+
+Doesn’t handle errors deeply — it just stops if something goes wrong.
+
+No external libraries are used, so it’s not the most optimized thing out there.
+
+Only works through the terminal for now — no fancy interface.
+
+One operation per run. If you want all three (add, subtract, multiply), you’ll have to run it three times.
+
 ---
 
 ## 📚 Code Reference
