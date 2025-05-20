@@ -10,11 +10,10 @@ This project implements efficient operations (Addition, Subtraction, Multiplicat
 
 DSA-HW02/
 ├── code/
-│   └── src/
-│       ├── main.js
-│       └── SparseMatrix.js
+│   ├── src/
+│   │   ├── main.js
+│   │   └── SparseMatrix.js
 ├── sample_inputs/
-│   ├── Copy of easy_sample_01_matrix1.txt
 │   ├── easy_sample_01_matrix1.txt
 │   ├── easy_sample_01_matrix2.txt
 │   ├── easy_sample_02_matrix1.txt
@@ -30,7 +29,7 @@ DSA-HW02/
 ├── LICENSE
 └── README.md
 
-
+---
 
 ## 🔧 Features
 
