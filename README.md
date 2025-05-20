@@ -154,6 +154,7 @@ Reusable class SparseMatrix with:
 ## 🧑‍💻 Author
 
 Name: Joshua Chukwuebuka Moses
+
 Course: Enterprise Web Development
 
 ---
