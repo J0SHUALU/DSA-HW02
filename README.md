@@ -67,6 +67,7 @@ cols=3180
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name/dsa/sparse_matrix/code/src/
+```
 
 ### Step 2: Make Sure You Have Node.js
 
@@ -74,11 +75,13 @@ Install from https://nodejs.org if not installed:
 
 ```bash
 node -v
+```
 
 ### Step 3: Run the Program
 
 ```bash
 node main.js
+```
 
 You will be prompted:
 
@@ -89,8 +92,10 @@ Enter path to first matrix file: ../../sample_inputs/matrixfile1.txt
 Enter path to second matrix file: ../../sample_inputs/matrixfile2.txt
 
 ✅ The result is saved in result.txt inside code/src/
+---
 
-### ⚠️ Input Validation
+
+## ⚠️ Input Validation
 
 This project validates inputs by checking for:
 
@@ -104,8 +109,10 @@ If any issue occurs, you’ll get:
 
 ```bash
 Error: Input file has wrong format
+```
+---
 
-### 🧪 Sample Test
+## 🧪 Sample Test
 
 To test the system:
 
@@ -113,12 +120,13 @@ To test the system:
 node main.js
 Choose add, subtract, or multiply, then enter:
 
-```bash
 ../../sample_inputs/matrix1.txt
 ../../sample_inputs/matrix2.txt
 Output will be written to result.txt.
+```
+---
 
-### 📚 Code Reference
+## 📚 Code Reference
 
 All code written manually from scratch
 
@@ -139,12 +147,14 @@ Reusable class SparseMatrix with:
 .multiply(otherMatrix)
 
 )
+---
 
-### 🧑‍💻 Author
+## 🧑‍💻 Author
 
 Name: Joshua Chukwuebuka Moses
 Course: Enterprise Web Development
+---
 
-### 🏁 License
+## 🏁 License
 
 MIT License – free to reuse and modify with citation.
