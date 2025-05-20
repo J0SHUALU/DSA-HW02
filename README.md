@@ -2,8 +2,7 @@
 
 ## 🧠 Overview
 
-This project handles basic operations like addition, subtraction, and multiplication on large sparse matrices using plain JavaScript. I wrote the logic from scratch without relying on any built-in math or matrix libraries, keeping performance and memory usage in mind throughout.
-
+This project handles basic operations like addition, subtraction, and multiplication on large sparse matrices using plain JavaScript. 
 ---
 
 ## 📁 Folder Structure
