@@ -2,7 +2,7 @@
 
 ## 🧠 Overview
 
-This project implements efficient operations (Addition, Subtraction, Multiplication) on large **Sparse Matrices**, using a **custom JavaScript implementation** with no built-in matrix or math libraries. It is designed for performance and memory optimization.
+This project handles basic operations like addition, subtraction, and multiplication on large sparse matrices using plain JavaScript. I wrote the logic from scratch without relying on any built-in math or matrix libraries, keeping performance and memory usage in mind throughout.
 
 ---
 
