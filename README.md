@@ -7,12 +7,16 @@ This project implements efficient operations (Addition, Subtraction, Multiplicat
 ---
 
 ## 📁 Folder Structure
+
 ```
 DSA-HW02/
 ├── code/
-│   ├── src/
-│   │   ├── main.js
-│   │   └── SparseMatrix.js
+│   └── src/
+│       ├── main.js
+│       ├── SparseMatrix.js
+│       ├── result.txt
+│       ├── result_add.txt
+│       └── result_subtract.txt
 ├── sample_inputs/
 │   ├── easy_sample_01_matrix1.txt
 │   ├── easy_sample_01_matrix2.txt
@@ -29,6 +33,7 @@ DSA-HW02/
 ├── LICENSE
 └── README.md
 ```
+
 ---
 
 ## 🔧 Features
@@ -83,13 +88,12 @@ node main.js
 ```
 
 You will be prompted:
-
-
+```
 Choose an operation: add, subtract, multiply
 Operation: add
 Enter path to first matrix file: ../../sample_inputs/matrixfile1.txt
 Enter path to second matrix file: ../../sample_inputs/matrixfile2.txt
-
+```
 ✅ The result is saved in result.txt inside code/src/
 
 
@@ -134,7 +138,7 @@ No use of built-in JS libraries like Math, Array.prototype.map, etc.
 Follows best practices for sparse matrix efficiency
 
 Reusable class SparseMatrix with:
-
+```
 .getElement(row, col)
 
 .setElement(row, col, value)
@@ -144,7 +148,7 @@ Reusable class SparseMatrix with:
 .subtract(otherMatrix)
 
 .multiply(otherMatrix)
-
+```
 ---
 
 ## 🧑‍💻 Author
