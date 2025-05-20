@@ -92,7 +92,7 @@ Enter path to first matrix file: ../../sample_inputs/matrixfile1.txt
 Enter path to second matrix file: ../../sample_inputs/matrixfile2.txt
 
 ✅ The result is saved in result.txt inside code/src/
----
+
 
 
 ## ⚠️ Input Validation
