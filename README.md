@@ -30,6 +30,7 @@ DSA-HW02/
 ├── LICENSE
 └── README.md
 
+
 ---
 
 ## 🔧 Features
@@ -146,7 +147,6 @@ Reusable class SparseMatrix with:
 
 .multiply(otherMatrix)
 
-)
 ---
 
 ## 🧑‍💻 Author
