@@ -7,7 +7,7 @@ This project implements efficient operations (Addition, Subtraction, Multiplicat
 ---
 
 ## 📁 Folder Structure
-
+```
 DSA-HW02/
 ├── code/
 │   ├── src/
@@ -28,7 +28,7 @@ DSA-HW02/
 │   └── matrixfile2.txt
 ├── LICENSE
 └── README.md
-
+```
 ---
 
 ## 🔧 Features
