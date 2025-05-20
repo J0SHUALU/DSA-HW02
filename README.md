@@ -129,7 +129,7 @@ Output will be written to result.txt.
 ```
 ---
 
-##⚠️ Limitations & Constraints
+## ⚠️ Limitations & Constraints
 
 Both matrices need to be the same size for add or subtract to work — otherwise, it throws an error.
 
