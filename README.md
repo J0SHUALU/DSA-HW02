@@ -2,7 +2,8 @@
 
 ## 🧠 Overview
 
-This project handles basic operations like addition, subtraction, and multiplication on large sparse matrices using plain JavaScript. 
+This project handles basic operations like addition, subtraction, and multiplication on large sparse matrices using plain JavaScript.
+
 ---
 
 ## 📁 Folder Structure
@@ -154,6 +155,7 @@ Reusable class SparseMatrix with:
 
 Name: Joshua Chukwuebuka Moses
 Course: Enterprise Web Development
+
 ---
 
 ## 🏁 License
