@@ -53,11 +53,13 @@ DSA-HW02/
 
 Each matrix input file should follow this format:
 
+```
 rows=8433
 cols=3180
 (0, 381, -694)
 (0, 128, -838)
 
+```
 
 - First two lines: number of rows and columns
 - Following lines: only **non-zero entries** in `(row, column, value)` format
